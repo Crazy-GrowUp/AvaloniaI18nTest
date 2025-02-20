@@ -2,7 +2,7 @@
 
 ## 0.项目新建 Properties 文件夹
 
-![image-20250220094054262](MDImg\image-20250220094054262.png)
+![image-20250220094054262](.\MDImg\image-20250220094054262.png)
 
 对应的项目配置文件里面就会增加 `<Folder Include="Properties\" />`
 
