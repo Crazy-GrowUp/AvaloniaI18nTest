@@ -1,6 +1,7 @@
 # AvaloniaI18nTest
 
 ## 0.项目新建 Properties 文件夹
+![输入图片说明](MDImg/image-20250220093754835.png)
 
 ![image-20250220094054262](.\MDImg\image-20250220094054262.png)
 
