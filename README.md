@@ -1,0 +1,2 @@
+# AvaloniaI18nTest
+
